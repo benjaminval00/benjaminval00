@@ -9,7 +9,7 @@ Software Developer focused on web, mobile, and backend development.
 - 🎓 Computer Science student constantly exploring new tools and software patterns.
 - 🌱 Dedicated to continuous learning, building practical projects, and refining my technical foundations.
 - 💡 Passionate about turning requirements into well-structured code, from responsive frontends to relational databases.
-- 💼 Open for internships or new opportunities — feel free to check out [my resume](./cv.pdf).
+- 💼 Open for internships or new opportunities.
 
 ---
 
