@@ -15,6 +15,7 @@ Software Developer focused on web, mobile, and backend development.
 
 ## 🛠 Technical Skills
 
+*Developed and applied through academic coursework and hands-on projects, with an active focus on continuous learning and deepening expertise.*
 - **Languages:** Dart, Java, TypeScript, C#, C++, SQL
 - **Frameworks & Libraries:** Flutter, Nuxt / Vue.js, Prisma ORM, .NET / WPF
 - **Databases:** MySQL (relational design, queries, normalization)
