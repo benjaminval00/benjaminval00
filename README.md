@@ -1,4 +1,4 @@
-# Hi, I'm [Benjamin V.]
+# Hi, I'm Benjamin V.
 
 Software Developer focused on web, mobile, and backend development.
 
