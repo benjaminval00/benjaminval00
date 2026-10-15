@@ -27,4 +27,4 @@ Software Developer focused on web, mobile, and backend development.
 ## 🤝 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/benjamin--v](https://linkedin.com/in/benjamin--v)
-- **Email:** [ben.V66101110@gmail.com](mailto:ben.V66101110@gmail.com)
+- **Email:** [ben.V66101110@gmail.com]([mailto:ben.V66101110@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ben.V66101110@gmail.com))
